@@ -1,11 +1,11 @@
 ### Hey, I'm Su. Welcome to my page! :raising_hand:
 
 ## :computer: Newly graduated computer engineer. 
+
 <br />
 
-### Connect: 
-[<img align="center" alt="sukaplan_LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="center" alt="sukaplan_Outlook" width="22px" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />][email]
+### Connect with me: 
+[<img align="left" alt="sukaplan_LinkedIn" width="100px" height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]  [<img align="left" alt="sukaplan_Outlook" width="160px" height="25px" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />][email]
 
 <br />
 
@@ -19,6 +19,10 @@
 [<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />]
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukaplan&theme=radical&layout=compact&show_icons=true)](https://github.com/sukaplan/github-readme-stats)
+
 
 
 
