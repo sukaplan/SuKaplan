@@ -4,8 +4,8 @@
 <br />
 
 ### Connect: 
-[<img align="left" alt="sukaplan_LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sukaplan_Outlook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftoutlook.svg" />][email]
+[<img align="center" alt="sukaplan_LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="center" alt="sukaplan_Outlook" width="22px" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />][email]
 
 <br />
 
