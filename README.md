@@ -12,9 +12,16 @@
   [<img align="left" alt="sukaplan_Outlook" width="160px" height="30px" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />][email]
 
   [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&labelColor=blue&url=https://sukaplan.github.io/sukaplanweb/)](https://sukaplan.github.io/sukaplanweb/)
-  <br />
-
-
+    
+   
+  
+  #### View my CV here:
+  [<img align="left" alt="sukaplan_CV" src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/64/000000/external-preparing-a-concise-cv-for-new-job-opportunity-jobs-tritone-tal-revivo.png" />][resume]
+  
+                                                                                                           
+                                                                                                        
+  \
+  <br />                                                                                                                                  
   ### Here are some of the technologies I work with: 
   <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -40,5 +47,6 @@
   [linkedin]: https://www.linkedin.com/in/su-kaplan-715b92151/
   [website]: https://sukaplan.github.io/sukaplanweb/
   [email]: suukaplan@outlook.com
+  [resume]: https://drive.google.com/file/d/1UUSPcEluPUqiJKiHvn7XG2flU1_hH4Sb/view?usp=sharing                                                                                                                        
 
 </div>
