@@ -36,7 +36,14 @@
 
   \
   <br />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukaplan&theme=radical&layout=compact&show_icons=true)](https://github.com/sukaplan/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukaplan&theme=radical&layout=compact&show_icons=true)](https://github.com/sukaplan/github-readme-stats) 
+                                                                                                                          
+                                                                                                                          
+  [![Su's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukaplan&theme=radical&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+                                                                                                                          
+                                                                                                                      
+
+                                                                                                                          
 
   <br />
 
