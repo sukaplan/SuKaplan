@@ -11,7 +11,7 @@
 
   [<img align="left" alt="sukaplan_Outlook" width="160px" height="30px" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />][email]
 
-  [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&labelColor=blue&url=https://sukaplan.github.io/sukaplanweb/)](https://sukaplan.github.io/sukaplanweb/)
+  [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&labelColor=blue&url=https://sukaplan-portfolio.vercel.app/)](https://sukaplan-portfolio.vercel.app/)
     
    
   
