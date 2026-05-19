@@ -2,7 +2,7 @@
   ### Hey, I'm Su. Welcome to my page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-  ## :computer: Newly graduated computer engineer. 
+  ## :computer: Senior Fullstack Software Engineer
 
 
 
